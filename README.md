@@ -5,9 +5,7 @@ The goals of this project are the following:
 * Train and validate the model with a training and validation set
 * Test that the model successfully drives around in a simulator without leaving the road
 
-<a href="https://www.youtube.com/watch?v=W6mD52oXCfw&feature=youtu.be
-" target="_blank"><img src="https://www.youtube.com/watch?v=W6mD52oXCfw&feature=youtu.be/0.jpg" 
-alt="Demonstration Video" width="240" height="180" border="10" /></a>
+[![Demonstration Video](https://www.youtube.com/watch?v=W6mD52oXCfw&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=W6mD52oXCfw&feature=youtu.be)
 
 My project includes the following files:
 * model.py containing the script to create and train the model
